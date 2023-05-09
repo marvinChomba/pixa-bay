@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.Header{
+  background-color: #03A9F4;
+  height: 90px;
+  padding: 20px;
+  color: white;
+  padding-bottom: 15px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  margin: 10 auto;
+}
+
+ul a {
+  text-decoration: none;
+  margin-right: 10px;
+  color: black;
+}
+
+.active {
+  color: #03A9F4;
+}
